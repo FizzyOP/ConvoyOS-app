@@ -1,7 +1,7 @@
 # ConvoyOS
 
-Download ConvoyOS for Windows from the Releases page.
+Download `ConvoyOS-Setup.exe` from the Releases page.
 
-Unzip `ConvoyOS-windows.zip` and run `ConvoyOS.exe`.
+Run it, choose a folder, and press Download. ConvoyOS is saved in that folder.
 
 When a newer version is published, the app offers the update inside the window.
